@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Itchen Bridge"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: 
+      light: [lumen, styles.scss]
+      dark: [lumen, dark.scss]
+    css: photo-slider.css
+    toc: true
+    page-layout: full
+
+editor: visual
+

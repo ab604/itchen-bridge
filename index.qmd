@@ -1,0 +1,40 @@
+---
+include-in-header: photo-slider.js
+---
+
+2024 marks 50 years since work began to construct the Itchen Bridge.
+
+```{=html}
+<p>Click and slide the blue slider to compare two images:</p>
+
+<div class="img-comp-container">
+  <div class="img-comp-img">
+    <img src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" height="500px">
+  </div>
+  <div class="img-comp-img img-comp-overlay">
+    <img src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide.jpg" height="500px">
+  </div>
+</div>
+
+<!-- <script>
+/*Execute a function that will execute an image compare function for each element with the img-comp-overlay class:*/
+initComparisons();
+</script> -->
+```
+```{=html}
+<p>Click and slide the blue slider to compare two images:</p>
+
+<div class="img-comp-container">
+  <div class="img-comp-img">
+    <img src="img/Photograph-Slide-Itchen-Bridge-1977-TheApproachesToTollOnEasternSideOfBridge19770531small.jpg" height="500px">
+  </div>
+  <div class="img-comp-img img-comp-overlay">
+    <img src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridgesmall.jpg" height="500px">
+  </div>
+</div>
+
+<script>
+/*Execute a function that will execute an image compare function for each element with the img-comp-overlay class:*/
+initComparisons();
+</script>
+```
