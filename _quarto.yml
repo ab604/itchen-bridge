@@ -8,7 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
@@ -18,6 +17,11 @@ format:
     css: photo-slider.css
     toc: true
     page-layout: full
-
+    #title-block-banner: true
+    author: "Alistair Bailey, Pardeep Panesar and Hannah Wake"
+    date: last-modified
+    date-format: "[Last Updated on] YYYY-MM-DD"
+    bibliography: references.bib
+    
 editor: visual
 
