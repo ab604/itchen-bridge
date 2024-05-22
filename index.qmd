@@ -2,11 +2,15 @@
 include-in-header: photo-slider.js
 ---
 
-The 22nd of March 2024 marked 50 years since work began to construct the Itchen Bridge[@robertson1976; @nicholson1977].
+The 22nd of March 2024 marked 50 years since work began to construct the Itchen Bridge [@robertson1976; @nicholson1977].
 
 Southampton Museums & Archive page on [the floating bridge](https://southamptonstories.co.uk/story/floating-bridge/) as part of their [Southampton Stories](https://southamptonstories.co.uk/) collection.
 
 Song from 1977 the Woolston Ferry [Gutta Percher & Balladeers on YouTube](https://www.youtube.com/watch?v=OemLggeF8PU) which references the Lowry painting.
+
+## Background
+
+## Design and construction
 
 ```{=html}
 <p>Click and slide the blue slider to compare two images:</p>

@@ -12,8 +12,8 @@ website:
 format:
   html:
     theme: 
-      light: [lumen, styles.scss]
-      dark: [lumen, dark.scss]
+      light: [pulse, styles.scss]
+      dark: [pulse, dark.scss]
     css: photo-slider.css
     toc: true
     page-layout: full
@@ -24,4 +24,3 @@ format:
     bibliography: references.bib
     
 editor: visual
-

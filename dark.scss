@@ -27,7 +27,7 @@ $shamrock: #1E8765 !default;
 $neutral1: #495961 !default;
 $neutral2: #758D9A !default;
 $gray-900: #222 !default;
-$link-color: $marine2 !default;
+/*--$link-color: $marine2 !default;
 $headings-color: $marine2 !default;
 
 // Body
@@ -55,7 +55,7 @@ $min-contrast-ratio:   4.5 !default;
 // Links
 $link-color:                $success !default;
 
-/*-- scss:rules --*/
+/*-- scss:rules 
 .highlight {
   color: $horizon3;
   font-weight: bold;
@@ -71,7 +71,7 @@ $link-color:                $success !default;
 .quarto-title-meta-heading {
   color: $marine2;
 }
-
+--*/
 //.nav-footer {
 //  color: $white ;
 //}

@@ -29,10 +29,10 @@ $horizon5: #8D3970 !default;
 $shamrock: #1E8765 !default;
 $neutral1: #495961 !default;
 $neutral2: #758D9A !default;
-$link-color: $marine1 !default;
-$headings-color: $marine1 !default;
+/*--$link-color: $marine1 !default;
+$headings-color: $marine1 !default;--*/
 
-/*-- scss:rules --*/
+/*-- scss:rules 
 .highlight {
   color: $horizon3;
   font-weight: bold;
@@ -48,3 +48,4 @@ $headings-color: $marine1 !default;
 .quarto-title-meta-heading {
   color: $marine1;
 }
+--*/
