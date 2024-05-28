@@ -1,17 +1,17 @@
 project:
   type: website
   output-dir: docs
+  render:
+     - index.qmd
 
 website:
   title: "The Itchen Bridge"
   page-navigation: false
-      #- href: index.qmd
-
 format:
   html:
     theme: 
-      light: [lux] #, styles.scss]
-      dark: [lux] # , dark.scss]
+      light: [lux, styles.scss]
+      dark: [lux, dark.scss]
     css: photo-slider.css
     toc: true
     page-layout: full
