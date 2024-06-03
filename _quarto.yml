@@ -12,7 +12,7 @@ format:
     theme: 
       light: [lux, styles.scss]
       dark: [lux, dark.scss]
-    css: photo-slider.css
+    #css: photo-slider.css
     toc: true
     page-layout: full
     title-block-banner: true

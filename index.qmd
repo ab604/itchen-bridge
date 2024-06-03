@@ -13,26 +13,62 @@ Song from 1977 the Woolston Ferry [Gutta Percher & Balladeers on YouTube](https:
 ## Design and construction
 
 ```{=html}
-<p>Click and slide the blue slider to compare two images:</p>
-
-<div class="img-comp-container">
-  <div class="img-comp-img">
-    <img src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" height="500px">
-  </div>
-  <div class="img-comp-img img-comp-overlay">
-    <img src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide.jpg" height="500px">
-  </div>
-</div>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+/>
+<style>
+  .coloured-slider {
+    --divider-color: rgba(0, 0, 0, 0.5);
+    --default-handle-color: rgba(0, 0, 0, 0.5);
+  }
+</style>
 ```
+
+```{=html}
+<img-comparison-slider class="coloured-slider">
+  <img slot="first" src="img/Photograph-Slide-Itchen-Bridge-1974-EastSideOfWoolstonFerryAtNewBridge19740916small.jpg" height="800"/>
+  <img slot="second" src="img/Photograph-Slide-Itchen-Bridge-2024-EastSideOfWoolstonFerryAtNewBridge19740916small.jpg" height="800"/>
+</img-comparison-slider>
+```
+
+```{=html}
+
+<img-comparison-slider class="coloured-slider">
+  <img slot="first" src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" width="800"/>
+  <img slot="second" src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide.jpg" width="800"/>
+</img-comparison-slider>
+```
+
+<!-- ### Heading
+
 ```{=html}
 <p>Click and slide the blue slider to compare two images:</p>
 
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="img/Photograph-Slide-Itchen-Bridge-1977-TheApproachesToTollOnEasternSideOfBridge19770531small.jpg" height="500px">
+    <img src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" height="50%">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridgesmall.jpg" height="500px">
+    <img src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide.jpg" height="50%">
+  </div>
+</div>
+```
+### Heading
+
+```{=html}
+<p>Click and slide the blue slider to compare two images:</p>
+
+<div class="img-comp-container">
+  <div class="img-comp-img">
+    <img src="img/Photograph-Slide-Itchen-Bridge-1977-TheApproachesToTollOnEasternSideOfBridge19770531small.jpg" height="50%">
+  </div>
+  <div class="img-comp-img img-comp-overlay">
+    <img src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridgesmall.jpg" height="50%">
   </div>
 </div>
 ```
@@ -42,3 +78,4 @@ Song from 1977 the Woolston Ferry [Gutta Percher & Balladeers on YouTube](https:
 initComparisons();
 </script>
 ```
+-->

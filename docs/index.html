@@ -168,7 +168,6 @@ function initComparisons() {
 </script>
 
 
-<link rel="stylesheet" href="photo-slider.css">
 </head>
 
 <body>
@@ -195,7 +194,7 @@ function initComparisons() {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">Last Updated on 2024-05-28</p>
+        <p class="date">Last Updated on 2024-06-03</p>
       </div>
     </div>
     
@@ -231,30 +230,67 @@ function initComparisons() {
 </section>
 <section id="design-and-construction" class="level2">
 <h2 class="anchored" data-anchor-id="design-and-construction">Design and construction</h2>
+<script defer="" src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css">
+<style>
+  .coloured-slider {
+    --divider-color: rgba(0, 0, 0, 0.5);
+    --default-handle-color: rgba(0, 0, 0, 0.5);
+  }
+</style>
+<img-comparison-slider class="coloured-slider">
+  <img slot="first" src="img/Photograph-Slide-Itchen-Bridge-1974-EastSideOfWoolstonFerryAtNewBridge19740916small.jpg" height="800">
+  <img slot="second" src="img/Photograph-Slide-Itchen-Bridge-2024-EastSideOfWoolstonFerryAtNewBridge19740916small.jpg" height="800">
+</img-comparison-slider>
+
+<img-comparison-slider class="coloured-slider">
+  <img slot="first" src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" width="800">
+  <img slot="second" src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide.jpg" width="800">
+</img-comparison-slider>
+<!-- ### Heading
+
+
+
+```{=html}
 <p>Click and slide the blue slider to compare two images:</p>
 
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" height="500px">
+    <img src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" height="50%">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide.jpg" height="500px">
+    <img src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide.jpg" height="50%">
   </div>
 </div>
+```
+
+
+### Heading
+
+
+
+```{=html}
 <p>Click and slide the blue slider to compare two images:</p>
 
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="img/Photograph-Slide-Itchen-Bridge-1977-TheApproachesToTollOnEasternSideOfBridge19770531small.jpg" height="500px">
+    <img src="img/Photograph-Slide-Itchen-Bridge-1977-TheApproachesToTollOnEasternSideOfBridge19770531small.jpg" height="50%">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridgesmall.jpg" height="500px">
+    <img src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridgesmall.jpg" height="50%">
   </div>
 </div>
+```
+
+```{=html}
 <script>
 /*Execute a function that will execute an image compare function for each element with the img-comp-overlay class:*/
 initComparisons();
 </script>
+```
+
+
+-->
 
 
 
