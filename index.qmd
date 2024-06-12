@@ -10,7 +10,11 @@ The images that appear on this page along with additional drone videos are avail
 
 The 22nd of March 2024 marked 50 years since work began to construct the Itchen Bridge [@robertson1976; @nicholson1977]. The bridge opened to traffic just over three years later on the 1st of June 1977. At 1200 metres in length and over 24 metres at it's highest point, the Itchen Bridge is by far the biggest bridge in Southampton.
 
-![The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes.](video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4){title="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." alt="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." autoplay="true"}
+::: {#fig-drone}
+{{< video video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4 title="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." alt="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." autoplay="true" >}} 
+
+The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes.
+:::
 
 In 2024 the [Itchen Bridge Maintenance Project](https://transport.southampton.gov.uk/tcf/bursledon-to-southampton-corridor/itchen-bridge-maintenance-project/) also sees major repairs being undertaken.
 
@@ -18,8 +22,7 @@ Here, alongside reports from those involved with the design and construction of 
 
 ## Background
 
-[Wikipedia Itchen Bridge](https://en.wikipedia.org/wiki/Itchen_Bridge)
-[Wikipedia Woolston Floating Bridge](https://en.wikipedia.org/wiki/Woolston_Floating_Bridge)
+[Wikipedia Itchen Bridge](https://en.wikipedia.org/wiki/Itchen_Bridge) [Wikipedia Woolston Floating Bridge](https://en.wikipedia.org/wiki/Woolston_Floating_Bridge)
 
 Southampton Museums & Archive page on [the floating bridge](https://southamptonstories.co.uk/story/floating-bridge/) as part of their [Southampton Stories](https://southamptonstories.co.uk/) collection.
 
@@ -27,13 +30,11 @@ Song from 1977 the Woolston Ferry [Gutta Percher & Balladeers on YouTube](https:
 
 [Tess of the Tollbooth](https://www.bbc.co.uk/programmes/m001tj0q) by Ali Sparks
 
-Book [@adams1977] 
-[Daily Echo 10 things you may not know](https://www.dailyecho.co.uk/news/24061133.10-things-may-not-know-southamptons-itchen-bridge/)
-[Daily Echo 46 years on article](https://www.dailyecho.co.uk/news/23559206.southampton-itchen-bridge-opened-46-years-ago-today/)
+Book [@adams1977] [Daily Echo 10 things you may not know](https://www.dailyecho.co.uk/news/24061133.10-things-may-not-know-southamptons-itchen-bridge/) [Daily Echo 46 years on article](https://www.dailyecho.co.uk/news/23559206.southampton-itchen-bridge-opened-46-years-ago-today/)
 
 Toll booths built by [G E Prince & Sons from Chapel Road](https://www.dailyecho.co.uk/yoursay/letters/10135618.memories-of-itchen-bridge-construction/)
 
-![Map of Southampton [@nicholson1977].](img/Nicholson-and-Robertson-Itchen-Bridge-Map-1977.jpg){fig-alt="Map of Southampton" fig-align="center" width="581"}
+![Map of Southampton [@nicholson1977].](img/Nicholson-and-Robertson-Itchen-Bridge-Map-1977.jpg){#fig-map fig-alt="Map of Southampton" fig-align="center" width="581"}
 
 ## Design and construction
 
