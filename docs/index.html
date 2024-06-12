@@ -61,6 +61,8 @@ div.csl-indent {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -194,7 +196,7 @@ function initComparisons() {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">Last Updated on 2024-06-10</p>
+        <p class="date">Last Updated on 2024-06-12</p>
       </div>
     </div>
     
@@ -225,6 +227,7 @@ function initComparisons() {
 <p>The 22nd of March 2024 marked 50 years since work began to construct the Itchen Bridge <span class="citation" data-cites="robertson1976 nicholson1977">(<a href="#ref-robertson1976" role="doc-biblioref">Robertson 1976</a>; <a href="#ref-nicholson1977" role="doc-biblioref">Nicholson and Robertson 1977</a>)</span>.</p>
 <p>Southampton Museums &amp; Archive page on <a href="https://southamptonstories.co.uk/story/floating-bridge/">the floating bridge</a> as part of their <a href="https://southamptonstories.co.uk/">Southampton Stories</a> collection.</p>
 <p>Song from 1977 the Woolston Ferry <a href="https://www.youtube.com/watch?v=OemLggeF8PU">Gutta Percher &amp; Balladeers on YouTube</a> which references the Lowry painting.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title="The Itchen Bridge, April 2024"><source src="video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4"></video></div>
 <section id="background" class="level2">
 <h2 class="anchored" data-anchor-id="background">Background</h2>
 </section>
@@ -258,11 +261,9 @@ function initComparisons() {
 
 <img-comparison-slider class="coloured-slider">
   <img slot="first" src="img/Photograph-Slide-Itchen-Bridge-1977-TheApproachesToTollOnEasternSideOfBridge19770531small.jpg" height="615">
-  <img slot="second" src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridgesmall.jpg" height="615">
+  <img slot="second" src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridge19770531small03.jpg" height="615">
 </img-comparison-slider>
 <!-- ### Heading
-
-
 
 ```{=html}
 <p>Click and slide the blue slider to compare two images:</p>
@@ -276,11 +277,7 @@ function initComparisons() {
   </div>
 </div>
 ```
-
-
 ### Heading
-
-
 
 ```{=html}
 <p>Click and slide the blue slider to compare two images:</p>
@@ -294,15 +291,12 @@ function initComparisons() {
   </div>
 </div>
 ```
-
 ```{=html}
 <script>
 /*Execute a function that will execute an image compare function for each element with the img-comp-overlay class:*/
 initComparisons();
 </script>
 ```
-
-
 -->
 
 
@@ -844,6 +838,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 
