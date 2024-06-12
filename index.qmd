@@ -10,7 +10,7 @@ The images that appear on this page along with additional drone videos are avail
 
 The 22nd of March 2024 marked 50 years since work began to construct the Itchen Bridge [@robertson1976; @nicholson1977]. The bridge opened to traffic just over three years later on the 1st of June 1977. At 1200 metres in length and over 24 metres at it's highest point, the Itchen Bridge is by far the biggest bridge in Southampton.
 
-![](video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4){title="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." alt="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." autoplay="true"}
+![The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes.](video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4){title="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." alt="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." autoplay="true"}
 
 In 2024 the [Itchen Bridge Maintenance Project](https://transport.southampton.gov.uk/tcf/bursledon-to-southampton-corridor/itchen-bridge-maintenance-project/) also sees major repairs being undertaken.
 
