@@ -10,13 +10,16 @@ The images that appear on this page along with additional drone videos are avail
 
 The 22nd of March 2024 marked 50 years since work began to construct the Itchen Bridge [@robertson1976; @nicholson1977]. The bridge opened to traffic just over three years later on the 1st of June 1977. At 1200 metres in length and over 24 metres at it's highest point, the Itchen Bridge is by far the biggest bridge in Southampton.
 
-![The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes.](video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4){autoplay="true"}
+![](video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4){title="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." alt="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." autoplay="true"}
 
 In 2024 the [Itchen Bridge Maintenance Project](https://transport.southampton.gov.uk/tcf/bursledon-to-southampton-corridor/itchen-bridge-maintenance-project/) also sees major repairs being undertaken.
 
 Here, alongside reports from those involved with the design and construction of the Itchen Bridge, we present eleven orphan 35 mm slides from an unknown local photographer from Southampton who captured the construction process from 1974 to the final day of the Woolston chain ferry on the 11th of June 1977. Where possible have compared his images to the present day.
 
 ## Background
+
+[Wikipedia Itchen Bridge](https://en.wikipedia.org/wiki/Itchen_Bridge)
+[Wikipedia Woolston Floating Bridge](https://en.wikipedia.org/wiki/Woolston_Floating_Bridge)
 
 Southampton Museums & Archive page on [the floating bridge](https://southamptonstories.co.uk/story/floating-bridge/) as part of their [Southampton Stories](https://southamptonstories.co.uk/) collection.
 
