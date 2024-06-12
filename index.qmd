@@ -1,34 +1,62 @@
 ---
-include-in-header: photo-slider.js
+bibliography: references.bib
 ---
 
-The 22nd of March 2024 marked 50 years since work began to construct the Itchen Bridge [@robertson1976; @nicholson1977].
+::: {.callout-note appearance="simple" icon="false"}
+The images that appear on this page along with additional drone videos are available on the [University of Southampton Library Digital Viewer](https://viewer.soton.ac.uk/collections/itchen-bridge-project).
+:::
+
+## Introduction
+
+The 22nd of March 2024 marked 50 years since work began to construct the Itchen Bridge [@robertson1976; @nicholson1977]. The bridge opened to traffic just over three years later on the 1st of June 1977. At 1200 metres in length and over 24 metres at it's highest point, the Itchen Bridge is by far the biggest bridge in Southampton.
+
+![The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes.](video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4){autoplay="true"}
+
+In 2024 the [Itchen Bridge Maintenance Project](https://transport.southampton.gov.uk/tcf/bursledon-to-southampton-corridor/itchen-bridge-maintenance-project/) also sees major repairs being undertaken.
+
+Here, alongside reports from those involved with the design and construction of the Itchen Bridge, we present eleven orphan 35 mm slides from an unknown local photographer from Southampton who captured the construction process from 1974 to the final day of the Woolston chain ferry on the 11th of June 1977. Where possible have compared his images to the present day.
+
+## Background
 
 Southampton Museums & Archive page on [the floating bridge](https://southamptonstories.co.uk/story/floating-bridge/) as part of their [Southampton Stories](https://southamptonstories.co.uk/) collection.
 
 Song from 1977 the Woolston Ferry [Gutta Percher & Balladeers on YouTube](https://www.youtube.com/watch?v=OemLggeF8PU) which references the Lowry painting.
 
-{{< video video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4 
-title="The Itchen Bridge, April 2024" >}}
+[Tess of the Tollbooth](https://www.bbc.co.uk/programmes/m001tj0q) by Ali Sparks
 
+Book [@adams1977] 
+[Daily Echo 10 things you may not know](https://www.dailyecho.co.uk/news/24061133.10-things-may-not-know-southamptons-itchen-bridge/)
+[Daily Echo 46 years on article](https://www.dailyecho.co.uk/news/23559206.southampton-itchen-bridge-opened-46-years-ago-today/)
 
-## Background
+Toll booths built by [G E Prince & Sons from Chapel Road](https://www.dailyecho.co.uk/yoursay/letters/10135618.memories-of-itchen-bridge-construction/)
+
+![Map of Southampton [@nicholson1977].](img/Nicholson-and-Robertson-Itchen-Bridge-Map-1977.jpg){fig-alt="Map of Southampton" fig-align="center" width="581"}
 
 ## Design and construction
+
+![A diagram of the Itchen Bridge from the South elevation [@nicholson1977].](img/Nicholson-and-Robertson-Itchen-Bridge-South-Elevation-1977.jpg){fig-alt="A diagram of the Itchen Bridge from the South elevation marking the distances between piers"}
+
+## Then and Now
 
 ```{=html}
 <script
   defer
-  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
-></script>
+  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js">
+  </script>
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
 />
+
 <style>
   .coloured-slider {
-    --divider-color: rgba(0, 0, 0, 0.5);
-    --default-handle-color: rgba(0, 0, 0, 0.5);
+    --divider-color: #fff;
+    --default-handle-color: #fff;
+    --divider-width: 2px;
+    --default-handle-width: clamp(40px, 20vw, 100px);
+  }
+  .coloured-slider:focus {
+    --default-handle-opacity: 0;
   }
 </style>
 ```
@@ -64,40 +92,4 @@ title="The Itchen Bridge, April 2024" >}}
   <img slot="second" src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridge19770531small03.jpg" height="615"/>
 </img-comparison-slider>
 ```
-````{=html}
-<!-- ### Heading
-
-```{=html}
-<p>Click and slide the blue slider to compare two images:</p>
-
-<div class="img-comp-container">
-  <div class="img-comp-img">
-    <img src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" height="50%">
-  </div>
-  <div class="img-comp-img img-comp-overlay">
-    <img src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide.jpg" height="50%">
-  </div>
-</div>
-```
-### Heading
-
-```{=html}
-<p>Click and slide the blue slider to compare two images:</p>
-
-<div class="img-comp-container">
-  <div class="img-comp-img">
-    <img src="img/Photograph-Slide-Itchen-Bridge-1977-TheApproachesToTollOnEasternSideOfBridge19770531small.jpg" height="50%">
-  </div>
-  <div class="img-comp-img img-comp-overlay">
-    <img src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridgesmall.jpg" height="50%">
-  </div>
-</div>
-```
-```{=html}
-<script>
-/*Execute a function that will execute an image compare function for each element with the img-comp-overlay class:*/
-initComparisons();
-</script>
-```
--->
-````
+![11th June 1977](img/Photograph-Slide-Itchen-Bridge-1977-SouthSide19770611small.jpg)
