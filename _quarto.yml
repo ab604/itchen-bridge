@@ -24,5 +24,6 @@ format:
     lightbox: true
     link-external-icon: true
     link-external-newwindow: true
+    appendix-style: none
     
 editor: visual
