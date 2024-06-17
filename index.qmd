@@ -26,7 +26,6 @@ The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes.
 
 ![Map of Southampton [@nicholson1977].](img/Nicholson-and-Robertson-Itchen-Bridge-Map-1977.jpg){#fig-map fig-alt="Map of Southampton" fig-align="center" width="581"}
 
-
 ### Dimensions
 
 At 1200 metres in length and rising to provide 24 metres clearance at it's highest point (28.9 metres above chart datum [@pung]) and weighing in at 61,000 tons [@adams1977], the Itchen Bridge is by far the biggest bridge in Southampton (@fig-bridge-elevation). The height is a result of two ship mast height surveys carried out in 1958 and 1970. Only six ships with masts greater than 24.4 metres were observed in 1970, but this was sufficient to not apply for any reduction in height as laid out in the 1960 Southampton Corporation Act. This in turn created the 5% gradient that makes the bridge rise steeply from the land on either side [@robertson1976].
@@ -35,12 +34,11 @@ At 1200 metres in length and rising to provide 24 metres clearance at it's highe
 
 ### Costs
 
-The tender price for the bridge was £5,710,630, but in 1977 the total cost was estimated to be around £12 million [@nicholson1977]. That's approximately equivalent to a tender price of £74.5 million and total cost of £157 million in 2024 [@ukinfla], and is about the same as it costs to run the NHS in England for 9 hours [@nhs:key]. In 1977 it was estimated that the costs would be repaid by tolls in around 25 years (2002) [@nicholson1977]. In 1981 following a question in Parliament the date for repayment was revised back to 2025 [@tollbri]. A Freedom of Information request by Victoria Fraser in September 2023 confirmed that the debt had been repaid in 2016 with toll income of between £2 and £3.8 million for the financial years 2020 to 2023 [@foi2324]. The response to this request also noted an expected £4.5 million maintenance costs for the 2024 repairs.
+The tender price for the bridge was £5,710,630, but in 1977 the total cost was estimated to be around £12 million [@nicholson1977]. That's approximately equivalent to a tender price of £74.5 million and total cost of £157 million in 2024 [@ukinflaa], and is about the same as it costs to run the NHS in England for 9 hours [@nhs:key]. In 1977 it was estimated that the costs would be repaid by tolls in around 25 years (2002) [@nicholson1977]. In 1981 following a question in Parliament the date for repayment was revised back to 2025 [@tollbria]. A Freedom of Information request by Victoria Fraser in September 2023 confirmed that the debt had been repaid in 2016 with toll income of between £2 and £3.8 million for the financial years 2020 to 2023 [@foi2324a]. The response to this request also noted an expected £4.5 million maintenance costs for the 2024 repairs.
 
 The original purpose of the toll was in part as a congestion charge to discourage traffic as well as pay for the costs of the bridge and objections raised by motoring organisations almost led to the failure of the project [@robertson1976; @nicholson1977].
 
 ### Design and construction {#sec-design-and-construction}
-
 
 ### Further history and information
 
