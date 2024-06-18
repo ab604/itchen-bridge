@@ -101,7 +101,7 @@ It is unclear exactly where @fig-slide-01 was taken, but the description on the 
   }
 </style>
 ```
-In @fig-comp-slide-01 we see the view from the Woolston Ferry on 1974-09-16 looking east towards the construction of the bridge on the Woolston side. We can see the yellow ferry in the distance on the far shore. In 2024 the landing site of the ferry is the location of Southampton Water Activities Centre.
+In @fig-comp-slide-01 we see the view from the Woolston Ferry on 1974-09-16 looking east towards the construction of the bridge on the Woolston side. We can see the yellow ferry in the distance on the far shore. In 2024 the landing site of the ferry is the location of Southampton Water Activities Centre which can be seen in @fig-drone.
 
 ::: {#fig-comp-slide-01}
 ```{=html}
