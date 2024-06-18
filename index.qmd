@@ -24,7 +24,7 @@ The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes.
 
 ### Location {#sec-location}
 
-The Itchen Bridge is located on the eastern side of Southampton about a mile upstream from where the rivers Itchen and Test meet to form Southampton Water. @fig-map shows...
+The Itchen Bridge is located on the south eastern side of Southampton where the river is about 300 metres wide and a mile upstream from where the rivers Itchen and Test meet to form Southampton Water. @fig-map shows the site of the Itchen Bridge in relation to existing and planned infrastructure, including the then unbuilt M27 between Southampton and Portsmouth. The next nearest road bridge is the Northam Bridge, 2.5 miles further upstream.
 
 ![The Itchen bridge site in relation to the road system [@nicholson1977].](img/Nicholson-and-Robertson-Itchen-Bridge-Map-1977.jpg){#fig-map fig-alt="Map from 1977 of the Itchen bridge site in relation to the road system." fig-align="center" width="581"}
 
@@ -48,7 +48,7 @@ Engineering consultancy R. Travers Morgan & Partners had been involved in the de
 
 ![Itchen Bridge construction programme [@nicholson1977].](img/bridge-gantt-chart.png){#fig-gantt fig-alt="Image of the Itchen Bridge construction programme"}
 
-The design was for a two lane road bridge with footways on either side spanning 1200 metres, originally between two roundabouts, now traffic lights at Albert Road on the western side. The bridge extends from two embankments over four piers with cantilever arms connected by suspended beam spans (@fig-bridge-elevation).
+The design was for a two lane road bridge with footways on either side spanning 1200 metres, originally between two roundabouts, now traffic lights at Albert Road on the western side. The carriageway is wider than was standard at 8.84 metres to allow for cyclists. Cycle lanes are now marked. Beginning on embankments, the bridge extends from two viaducts over four piers with cantilever arms connected by suspended beam spans (@fig-bridge-elevation).
 
 Steel piles were driven 30 metres into the ground for the piers (@fig-bridge-elevation, @fig-comp-slide-02) then the piers cast upwards before the cantilever arms were built out in 3 metre sections either side of each pier for balance (@fig-complete-section). The 260 ton suspended spans were created using a special beam launcher (@fig-cantilever). Each beam took about 3 weeks to construct, launch and lower into place [@nicholson1977].
 
@@ -122,7 +122,7 @@ In @fig-comp-slide-01 we see the view from the Woolston Ferry on 1974-09-16 look
 1974-09-16, looking east towards Woolston from the Woolston Ferry.
 :::
 
-@fig-comp-slide-02 was taken on the same day as @fig-comp-slide-01, and shows pilings being driven for the new bridge. This location is now Oakbank Road and in 1974 Woolston Railway station could still be seen. In 2024 it is obscured by the bridge, and the old Boat Shop at the junction of Victoria Road is now The Boat Shop Cafe.
+@fig-comp-slide-02 was taken on the same day as @fig-comp-slide-01, and shows drilling for the 30 metre steel pilings for the new bridge. This location is now Oakbank Road and in 1974 Woolston Railway station could still be seen. In 2024 it is obscured by the bridge, and the old Boat Shop at the junction of Victoria Road is now The Boat Shop Cafe.
 
 ::: {#fig-comp-slide-02}
 ```{=html}
@@ -172,44 +172,31 @@ On 1975-03-16, almost a year after construction first began, @fig-slide-03 shows
 
 @fig-woolston-approach and @fig-complete-section were both taken on the same day close to Christmas on 1975-12-18.
 
-![1975-12-18 Woolston Bridge approach](img/Photograph-Slide-Itchen-Bridge-1975-WoolstonBridgeSheApproaches19751218small.jpg){#fig-woolston-approach fig-alt="Photograph from 1975-12-18 Woolston Bridge approach"}
+@fig-woolston-approach shows the construction of the viaduct rising from the embankment at Portsmouth Road on the Woolston side of the bridge. A bus station appears to have existed at what is now Oakbank Road car park. On the left can be seen the cantilever from the first pier on the Woolston side.
+
+![1975-12-18 Construction of the viaduct approaching the bridge in Woolston](img/Photograph-Slide-Itchen-Bridge-1975-WoolstonBridgeSheApproaches19751218small.jpg){#fig-woolston-approach fig-alt="Photograph from 1975-12-18 Woolston Bridge approach"}
+
+@fig-complete-section shows a completed bridge pier and cantilever sections on the Woolston side as described in @sec-design-and-construction. This is probably the same one that can be seen on the left edge of @fig-woolston-approach.
 
 ![1975-12-18 Itchen Bridge complete section from Woolston side](img/Photograph-Slide-Itchen-Bridge-1975-WoolstonBridgeTheCompleteSectionWoolstonSide19751218small.jpg){#fig-complete-section fig-alt="Photograph from 1975-12-18 of Itchen Bridge complete section from Woolston side"}
 
 ### 1976 {#sec-1976}
 
-There is just one photograph from 1976, taken in the spring on 1976-04-21. @fig-cantilever shows
+There is just one photograph from 1976, taken in the spring on 1976-04-21. @fig-cantilever shows the beam launcher in action just after the construction of the suspended spans would have begun (@fig-gantt).
 
-![1976-04-21 Woolston side](img/Photograph-Slide-Itchen-Bridge-1976-WoolstonSideNotOver19760421small.jpg){#fig-cantilever fig-alt="1976-04-21 Woolston side"}
+As described in @sec-design-and-construction, following the construction of the cantilevers from the piers, over a period of three weeks the beam launcher was used to construct and lift into place the section of bridge that is suspended between two piers and joining them.
+
+![1976-04-21 Operation of the beam launcher to construct and install a suspend span on the Woolston side](img/Photograph-Slide-Itchen-Bridge-1976-WoolstonSideNotOver19760421small.jpg){#fig-cantilever fig-alt="1976-04-21 Woolston side"}
 
 ### 1977 {#sec-1977}
 
 We have three photographs taken on 1977-05-31, the day that the pedestrians were first able to use the Itchen Bridge. This suggests our photographer might have been amongst them, although we have no images taken from the bridge itself. The bridge was then opened to traffic on 1977-06-01 and officially named on 1977-07-13 by Princess Alexandra.
 
-@fig-completed-bridge
+@fig-slide-04 shows the approach to the Toll Booths on the Woolston side.
 
 ::: {#fig-slide-04}
 ```{=html}
-<div id="fig-slide-04" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 04"> 
-<figure class="quarto-float quarto-float-fig figure"> 
-<div aria-describedby="fig-slide-04-caption"> 
-<img-comparison-slider class="custom-animated-handle">
-  <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" />
-  <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide02.jpg" />
-  <svg slot="handle" class="custom-animated-handle" xmlns="http://www.w3.org/2000/svg" width="100" viewBox="-8 -3 16 6">
-    <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
-  </svg>
-</img-comparison-slider>
-</div>
-</figure> 
-</div>
-```
-1977-05-31, the completed Itchen Bridge. Looking west from Woolston.
-:::
-
-::: {#fig-slide-05}
-```{=html}
-<div id="fig-slide-05" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 05"> 
+<div id="fig-slide-04" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 05"> 
 <figure class="quarto-float quarto-float-fig figure"> 
 <div aria-describedby="fig-slide-05-caption"> 
 <img-comparison-slider class="custom-animated-handle">
@@ -226,9 +213,30 @@ We have three photographs taken on 1977-05-31, the day that the pedestrians were
 1975-05-31, Approach to the Toll Booths on Portsmouth Road in Woolston.
 :::
 
+@fig-slide-05 shows the completed bridge looking west towards the city from the Woolston side from the road approaching the bridge near the Toll Booths, and @fig-completed-bridge shows the view in the same direction but from next to the new Oakbank Road car park.
+
+::: {#fig-slide-05}
+```{=html}
+<div id="fig-slide-05" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 04"> 
+<figure class="quarto-float quarto-float-fig figure"> 
+<div aria-describedby="fig-slide-04-caption"> 
+<img-comparison-slider class="custom-animated-handle">
+  <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" />
+  <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide02.jpg" />
+  <svg slot="handle" class="custom-animated-handle" xmlns="http://www.w3.org/2000/svg" width="100" viewBox="-8 -3 16 6">
+    <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
+  </svg>
+</img-comparison-slider>
+</div>
+</figure> 
+</div>
+```
+1977-05-31, the completed Itchen Bridge. Looking west from Woolston.
+:::
+
 ![1977-05-31, the completed Itchen Bridge from Victoria Road in Woolston.](img/Photograph-Slide-Itchen-Bridge-1977-TheCompletedItchenBridgeFromWoolston19770531small.jpg){#fig-completed-bridge fig-alt="Photograph from 1977-05-31 of the completed Itchen Bridge from Victoria Road in Woolston."}
 
-@fig-last-ferry shows the
+Finally @fig-last-ferry was taken on the last day of operation of the Woolston Ferry on 1977-06-11. The picture is taken on the ferry as car disembark on western Chapel side of the river with the completed bridge viaduct rises above it.
 
 ![1977-06-11 Leaving the Woolston Ferry on the western side. The last day of operation for the Woolston Ferry.](img/Photograph-Slide-Itchen-Bridge-1977-SouthSide19770611small.jpg){#fig-last-ferry fig-alt="Photograph from 1977-06-11 Leaving the Woolston Ferry on the western side.  The last day of operation for the Woolston Ferry."}
 
