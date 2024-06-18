@@ -12,7 +12,7 @@ The 22nd of March 2024 marked 50 years since work began to construct the Itchen 
 
 @fig-drone shows drone footage of the bridge in April 2024. The [Itchen Bridge Maintenance Project](https://transport.southampton.gov.uk/tcf/bursledon-to-southampton-corridor/itchen-bridge-maintenance-project/) also sees major repairs being undertaken this year.
 
-In @sec-colour-images-then-and-now we present photographs from 11 colour 35 mm slides from an unknown local photographer from Southampton who captured the construction process from 1974 to the final day of the Woolston chain ferry on the 11th of June 1977. For five of the pictures we have compared the slides to the present day.
+In @sec-colour-images-then-and-now we present photographs from eleven colour 35 mm slides from an unknown local photographer from Southampton who captured the construction process from 1974 to the final day of the Woolston chain ferry on the 11th of June 1977. For five of the pictures we have compared the slides to the present day.
 
 ::: {#fig-drone}
 {{< video video/Drone-Video-Itchen-Bridge-2024-Flypastfacingnorth4xspeed.mp4 title="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." alt="The Itchen Bridge, April 2024, Drone footage by Jeremy Hayes." autoplay="true" >}}
@@ -36,7 +36,9 @@ At 1200 metres in length and rising to provide 24.38 metres clearance at it's hi
 
 ### Costs {#sec-costs}
 
-The tender price for the bridge was £5,710,630, but in 1977 the total cost was estimated to be around £12 million [@nicholson1977]. That's approximately equivalent to a tender price of £74.5 million and total cost of £157 million in 2024 [@ukinflaa], and is about the same as it costs to run the NHS in England for 9 hours [@nhs:key]. In 1977 it was estimated that the costs would be repaid by tolls in around 25 years (2002) [@nicholson1977]. In 1981 following a question in Parliament the date for repayment was revised back to 2025 [@tollbria]. A Freedom of Information request by Victoria Fraser in September 2023 confirmed that the debt had been repaid in 2016 with toll income of between £2 and £3.8 million for the financial years 2020 to 2023 [@foi2324a]. The response to this request also noted an expected £4.5 million maintenance costs for the 2024 repairs.
+The tender price for the bridge was £5,710,630, but in 1977 the total cost was estimated to be around £12 million [@nicholson1977]. That's approximately equivalent to a tender price of £74.5 million and total cost of £157 million in 2024 [@ukinflaa], and is about the same as it costs to run the NHS in England for 9 hours [@nhs:key].
+
+In 1977 it was estimated that the costs would be repaid by tolls in around 25 years (2002) [@nicholson1977]. By 1981 following a question in Parliament the date for repayment was revised back to 2025 [@tollbria]. A Freedom of Information request by Victoria Fraser in September 2023 confirmed that the debt had been repaid in 2016 with toll income of between £2 and £3.8 million for the financial years 2020 to 2023 [@foi2324a]. The response to this request also noted an expected £4.5 million maintenance costs for the 2024 repairs.
 
 The original purpose of the toll was in part as a congestion charge to discourage traffic as well as pay for the costs of the bridge and objections raised by motoring organisations almost led to the failure of the project [@robertson1976; @nicholson1977].
 
