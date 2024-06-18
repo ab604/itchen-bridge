@@ -30,7 +30,7 @@ The Itchen Bridge is located on the eastern side of Southampton about a mile ups
 
 ### Dimensions {#sec-dimensions}
 
-At 1200 metres in length and rising to provide 24.4 metres clearance at it's highest point (28.9 metres above chart datum [@pung]) and weighing in at 61,000 tons [@adams1977], the Itchen Bridge is by far the biggest bridge in Southampton (@fig-bridge-elevation). The height is a result of two ship mast height surveys carried out in 1958 and 1970. Only six ships with masts greater than 24.4 metres were observed in 1970, but this was sufficient to not apply for any reduction in height as laid out in the 1960 Southampton Corporation Act. This in turn created the 5% gradient that makes the bridge rise steeply from the land on either side [@robertson1976].
+At 1200 metres in length and rising to provide 24.38 metres clearance at it's highest point (28.9 metres above chart datum [@pung]) and weighing in at 61,000 tons [@adams1977], the Itchen Bridge is by far the biggest bridge in Southampton (@fig-bridge-elevation). The height is a result of two ship mast height surveys carried out in 1958 and 1970. Only six ships with masts greater than 24.4 metres were observed in 1970, but this was sufficient to not apply for any reduction in height as laid out in the 1960 Southampton Corporation Act. This in turn created the 5% gradient that makes the bridge rise steeply from the land on either side [@robertson1976].
 
 ![A diagram of the Itchen Bridge from the South elevation [@nicholson1977].](img/Nicholson-and-Robertson-Itchen-Bridge-South-Elevation-1977.jpg){#fig-bridge-elevation fig-alt="A diagram of the Itchen Bridge from the South elevation marking the distances between piers"}
 
@@ -40,9 +40,17 @@ The tender price for the bridge was £5,710,630, but in 1977 the total cost was 
 
 The original purpose of the toll was in part as a congestion charge to discourage traffic as well as pay for the costs of the bridge and objections raised by motoring organisations almost led to the failure of the project [@robertson1976; @nicholson1977].
 
+Approval for the project was passed in July 1973 leaving only 8 months to prepare contracts and invite tenders before the expiry of the Southampton Corporation at the end of March 1974 [@robertson1976]. The expiration of the Southampton Corporation ended the existence of the City as a Highway Authority with the power to build bridges, hence it is unclear when or if a bridge would have been built had the deadline been missed.
+
 ### Design and construction {#sec-design-and-construction}
 
-The Itchen Bridge is a reinforced concrete structure.
+Engineering consultancy R. Travers Morgan & Partners had been involved in the design process since 1957, initially creating designs for a prestressed concrete bridge in 1971 which became detailed designs by December 1972. The tender was awarded to Kier on 1974-02-13, just over a month before work began. @fig-gantt shows the programme for the construction [@nicholson1977].
+
+![Itchen Bridge construction programme [@nicholson1977].](img/bridge-gantt-chart.png){#fig-gantt fig-alt="Image of the Itchen Bridge construction programme"}
+
+The design was for a two lane road bridge with footways on either side spanning 1200 metres, originally between two roundabouts, now traffic lights at Albert Road on the western side. The bridge extends from two embankments over four piers with cantilever arms connected by suspended beam spans (@fig-bridge-elevation).
+
+Steel piles were driven 30 metres into the ground for the piers (@fig-bridge-elevation, @fig-comp-slide-02) then the piers cast upwards before the cantilever arms were built out in 3 metre sections either side of each pier for balance (@fig-complete-section). The 260 ton suspended spans were created using a special beam launcher (@fig-cantilever). Each beam took about 3 weeks to construct, launch and lower into place [@nicholson1977].
 
 ### Further history and information {#sec-further-history-and-information}
 
@@ -64,11 +72,11 @@ The bridge also inspired Ali Sparks to write the Radio 4 drama [Tess of the Toll
 
 The eleven 35 mm colour film slides in this sections were purchased on eBay from a seller in Kent. The slides have handwritten descriptions and dates on their casings, but the only details the seller had as to their origin was that they were taken by a photographer local to Southampton.
 
-The slides have been colour corrected in photoshop, but otherwise are unedited. They are presented in chronlogical order and for five of the images we were able to identify approximately where they were taken from and have taken comparison images in April 2024. To view these images without the slider, please visit the [University of Southampton Library Digital Viewer](https://viewer.soton.ac.uk/collections/itchen-bridge-project).
+The slides have been colour corrected, but are otherwise unedited. They are presented in chronological order and for five of the images we were able to identify approximately where they were taken from and have taken comparison images in April 2024. To view these images without the slider, please visit the [University of Southampton Library Digital Viewer](https://viewer.soton.ac.uk/collections/itchen-bridge-project).
 
 ### 1974 {#sec-1974}
 
-It was unclear exactly where @fig-slide-01 was taken, but the description on the slide says "Top hill at Woolston preparing for new road" and is dated 1974-08-06, nearly 5 months after the first pile was driven on 1974-03-22. We assume this is heading towards where the Toll Booths would be either on or near the Portsmouth Road (A3025).
+It is unclear exactly where @fig-slide-01 was taken, but the description on the slide says "Top hill at Woolston preparing for new road" and is dated 1974-08-06, nearly 5 months after the first pile was driven on 1974-03-22. We assume this is heading towards where the Toll Booths would be either on or near the Portsmouth Road (A3025).
 
 ![1974-08-06 preparing the road for the Itchen Bridge in Woolston. Location unknown](img/Photograph-Slide-ItchenBridge-1974-TopHillAtWoolstonPreparingForNewRoad19740806small.jpg){#fig-slide-01 fig-alt="Photo from 1974-08-06 preparing the road for the Itchen Bridge in Woolston" fig-align="center"}
 
@@ -93,8 +101,9 @@ It was unclear exactly where @fig-slide-01 was taken, but the description on the
   }
 </style>
 ```
-In the Figure X we see the view from the Woolston Ferry on 1974-09-16 looking east towards the construction of the bridge on the Woolston side. We can see the yellow ferry in the distance on the far shore. In 2024 the landing site of the ferry is the location of Southampton Water Activities Centre.
+In @fig-comp-slide-01 we see the view from the Woolston Ferry on 1974-09-16 looking east towards the construction of the bridge on the Woolston side. We can see the yellow ferry in the distance on the far shore. In 2024 the landing site of the ferry is the location of Southampton Water Activities Centre.
 
+::: {#fig-comp-slide-01}
 ```{=html}
 <div id="fig-slide-01" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 01"> 
 <figure class="quarto-float quarto-float-fig figure"> 
@@ -107,14 +116,15 @@ In the Figure X we see the view from the Woolston Ferry on 1974-09-16 looking ea
   </svg>
 </img-comparison-slider> 
 </div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-slide-01-caption"> 
-Figure&nbsp;5: 1974-09-16, looking east towards Woolston from the Woolston Ferry. 
-</figcaption> 
 </figure> 
 </div>
 ```
-Figure X was taken on the same day as the Figure Y, and shows pilings being driven for the new bridge. This location is now Oakbank Road and in 1974 Woolston Railway station could still be seen. In 2024 it is obscured by the bridge, and the old Boat Shop at the junction of Victoria Road is now The Boat Shop Cafe.
+1974-09-16, looking east towards Woolston from the Woolston Ferry.
+:::
 
+@fig-comp-slide-02 was taken on the same day as @fig-comp-slide-01, and shows pilings being driven for the new bridge. This location is now Oakbank Road and in 1974 Woolston Railway station could still be seen. In 2024 it is obscured by the bridge, and the old Boat Shop at the junction of Victoria Road is now The Boat Shop Cafe.
+
+::: {#fig-comp-slide-02}
 ```{=html}
 <div id="fig-slide-02" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 02"> 
 <figure class="quarto-float quarto-float-fig figure"> 
@@ -131,16 +141,17 @@ Figure X was taken on the same day as the Figure Y, and shows pilings being driv
   </svg>
 </img-comparison-slider>
 </div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-slide-02-caption"> 
-Figure&nbsp;6: 1974-09-16, looking east towards Woolston Railway station at piles being driven for the new bridge.  
-</figcaption> 
 </figure> 
 </div>
 ```
+1974-09-16, looking east towards Woolston Railway station at piles being driven for the new bridge.
+:::
+
 ### 1975 {#sec-1975}
 
-On 1975-03-16, almost a year after construction first began we have an image from Hazel Road looking west towards the Woolston Ferry landing site with a pink ice cream van on the wharf and bus nearby on what is now Wharf Road. In the river the pilings for the new bridge piers can be seen. In 2024 the view of the bridge is largely obscured by housing, but there is monument to the ferry at the entrance to the homes on Wharf Road.
+On 1975-03-16, almost a year after construction first began, @fig-slide-03 shows an image from Hazel Road looking west towards the Woolston Ferry landing site with a pink ice cream van on the wharf and bus nearby on what is now Wharf Road. In the river the pilings for the new bridge piers can be seen. In 2024 the view of the bridge is largely obscured by housing, but there is monument to the ferry at the entrance to the homes on Wharf Road.
 
+::: {#fig-slide-03}
 ```{=html}
 <div id="fig-slide-03" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 02"> 
 <figure class="quarto-float quarto-float-fig figure"> 
@@ -153,12 +164,12 @@ On 1975-03-16, almost a year after construction first began we have an image fro
   </svg>
 </img-comparison-slider>
 </div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-slide-03-caption"> 
-Figure&nbsp;X: 1975-03-16, looking west towards the Woolston Ferry terminal in Woolston.  
-</figcaption> 
 </figure> 
 </div>
 ```
+1975-03-16, looking west towards the Woolston Ferry terminal in Woolston.
+:::
+
 @fig-woolston-approach and @fig-complete-section were both taken on the same day close to Christmas on 1975-12-18.
 
 ![1975-12-18 Woolston Bridge approach](img/Photograph-Slide-Itchen-Bridge-1975-WoolstonBridgeSheApproaches19751218small.jpg){#fig-woolston-approach fig-alt="Photograph from 1975-12-18 Woolston Bridge approach"}
@@ -173,12 +184,11 @@ There is just one photograph from 1976, taken in the spring on 1976-04-21. @fig-
 
 ### 1977 {#sec-1977}
 
-The Itchen Bridge was completed
-
-We have three photographs taken on 1977-05-31, show
+We have three photographs taken on 1977-05-31, the day that the pedestrians were first able to use the Itchen Bridge. This suggests our photographer might have been amongst them, although we have no images taken from the bridge itself. The bridge was then opened to traffic on 1977-06-01 and officially named on 1977-07-13 by Princess Alexandra.
 
 @fig-completed-bridge
 
+::: {#fig-slide-04}
 ```{=html}
 <div id="fig-slide-04" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 04"> 
 <figure class="quarto-float quarto-float-fig figure"> 
@@ -191,12 +201,13 @@ We have three photographs taken on 1977-05-31, show
   </svg>
 </img-comparison-slider>
 </div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-slide-03-caption"> 
-Figure&nbsp;X: 1977-05-31, the completed Itchen Bridge. Looking west from Woolston.  
-</figcaption> 
 </figure> 
 </div>
 ```
+1977-05-31, the completed Itchen Bridge. Looking west from Woolston.
+:::
+
+::: {#fig-slide-05}
 ```{=html}
 <div id="fig-slide-05" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 05"> 
 <figure class="quarto-float quarto-float-fig figure"> 
@@ -209,12 +220,12 @@ Figure&nbsp;X: 1977-05-31, the completed Itchen Bridge. Looking west from Woolst
   </svg>
 </img-comparison-slider>
 </div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-slide-03-caption"> 
-Figure&nbsp;X: 1975-05-31, Approach to the Toll Booths on Portsmouth Road in Woolston.  
-</figcaption> 
 </figure> 
 </div>
 ```
+1975-05-31, Approach to the Toll Booths on Portsmouth Road in Woolston.
+:::
+
 ![1977-05-31, the completed Itchen Bridge from Victoria Road in Woolston.](img/Photograph-Slide-Itchen-Bridge-1977-TheCompletedItchenBridgeFromWoolston19770531small.jpg){#fig-completed-bridge fig-alt="Photograph from 1977-05-31 of the completed Itchen Bridge from Victoria Road in Woolston."}
 
 @fig-last-ferry shows the
