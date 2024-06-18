@@ -17,7 +17,7 @@ format:
     title-block-banner: true
     title: "The Itchen Bridge"
     subtitle: "Construction in colour"
-    author: "Alistair Bailey, Pardeep Panesar, Kiki Kuijjer, Jeremy Hayes and Hannah Wake"
+    author: "Alistair Bailey, Pardeep Panesar, Kiki Kuijjer,<br>Jeremy Hayes and Hannah Wake"
     date: last-modified
     date-format: "[Last Updated on] YYYY-MM-DD"
     bibliography: references.bib
