@@ -107,9 +107,6 @@ In @fig-comp-slide-01 we see the view from the Woolston Ferry on 1974-09-16 look
 
 ::: {#fig-comp-slide-01}
 ```{=html}
-<div id="fig-slide-01" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 01"> 
-<figure class="quarto-float quarto-float-fig figure"> 
-<div aria-describedby="fig-slide-01-caption"> 
 <img-comparison-slider class="custom-animated-handle"> 
 <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1974-EastFromTheWestSideOfWoolstonFerryAtNewBridge19740916small.jpg" > 
 <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-EastFromTheWestSideOfWoolstonFerryAtNewBridge19740916small.jpg"> 
@@ -117,9 +114,6 @@ In @fig-comp-slide-01 we see the view from the Woolston Ferry on 1974-09-16 look
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider> 
-</div>
-</figure> 
-</div>
 ```
 1974-09-16, looking east towards Woolston from the Woolston Ferry.
 :::
@@ -128,9 +122,6 @@ In @fig-comp-slide-01 we see the view from the Woolston Ferry on 1974-09-16 look
 
 ::: {#fig-comp-slide-02}
 ```{=html}
-<div id="fig-slide-02" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 02"> 
-<figure class="quarto-float quarto-float-fig figure"> 
-<div aria-describedby="fig-slide-02-caption"> 
 <img-comparison-slider class="custom-animated-handle">
   <img slot="first" 
   style="width: 75%"
@@ -142,9 +133,6 @@ In @fig-comp-slide-01 we see the view from the Woolston Ferry on 1974-09-16 look
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider>
-</div>
-</figure> 
-</div>
 ```
 1974-09-16, looking east towards Woolston Railway station at piles being driven for the new bridge.
 :::
@@ -155,9 +143,6 @@ On 1975-03-16, almost a year after construction first began, @fig-slide-03 shows
 
 ::: {#fig-slide-03}
 ```{=html}
-<div id="fig-slide-03" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 02"> 
-<figure class="quarto-float quarto-float-fig figure"> 
-<div aria-describedby="fig-slide-03-caption"> 
 <img-comparison-slider class="custom-animated-handle">
   <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1975-WoolstonBridgeFromPortsmouthRoad19750316small.jpg" />
   <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-WoolstonBridgeFromPortsmouthRoad19750316small.jpg" />
@@ -165,9 +150,6 @@ On 1975-03-16, almost a year after construction first began, @fig-slide-03 shows
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider>
-</div>
-</figure> 
-</div>
 ```
 1975-03-16, looking west towards the Woolston Ferry terminal in Woolston.
 :::
@@ -198,9 +180,6 @@ We have three photographs taken on 1977-05-31, the day that the pedestrians were
 
 ::: {#fig-slide-04}
 ```{=html}
-<div id="fig-slide-04" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 05"> 
-<figure class="quarto-float quarto-float-fig figure"> 
-<div aria-describedby="fig-slide-05-caption"> 
 <img-comparison-slider class="custom-animated-handle">
   <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1977-TheApproachesToTollOnEasternSideOfBridge19770531small.jpg" />
   <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridge19770531small03.jpg"/>
@@ -208,9 +187,6 @@ We have three photographs taken on 1977-05-31, the day that the pedestrians were
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider>
-</div>
-</figure> 
-</div>
 ```
 1975-05-31, Approach to the Toll Booths on Portsmouth Road in Woolston.
 :::
@@ -219,9 +195,6 @@ We have three photographs taken on 1977-05-31, the day that the pedestrians were
 
 ::: {#fig-slide-05}
 ```{=html}
-<div id="fig-slide-05" class="quarto-figure quarto-figure-center quarto-float anchored" alt="Slide 04"> 
-<figure class="quarto-float quarto-float-fig figure"> 
-<div aria-describedby="fig-slide-04-caption"> 
 <img-comparison-slider class="custom-animated-handle">
   <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" />
   <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide02.jpg" />
@@ -229,9 +202,6 @@ We have three photographs taken on 1977-05-31, the day that the pedestrians were
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider>
-</div>
-</figure> 
-</div>
 ```
 1977-05-31, the completed Itchen Bridge. Looking west from Woolston.
 :::
