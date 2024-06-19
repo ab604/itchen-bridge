@@ -24,7 +24,7 @@ The Itchen Bridge, 17th April 2024, Drone footage by Jeremy Hayes.
 
 ### Location {#sec-location}
 
-The Itchen Bridge is located on the south eastern side of Southampton where the river is about 300 metres wide between the western Chapel side and eastern Woolston side. The bridge is 1.61 km (1 mile) upstream from where the rivers Itchen and Test meet to form Southampton Water. @fig-map shows the site of the Itchen Bridge in relation to existing and planned infrastructure, including the then unbuilt M27 between Southampton and Portsmouth. The next nearest road bridge is the Northam Bridge, 4 km (2.5 miles) further upstream.
+The Itchen Bridge is located on the south eastern side of Southampton where the river is about 300 metres wide between the western Chapel side and eastern Woolston side. The bridge is 1.6 km (1 mile) upstream from where the rivers Itchen and Test meet to form Southampton Water. @fig-map shows the site of the Itchen Bridge in relation to existing and planned infrastructure, including the then unbuilt M27 between Southampton and Portsmouth. The next nearest road bridge is the Northam Bridge, 4 km (2.5 miles) further upstream.
 
 ![The Itchen bridge site in relation to the road system [@nicholson1977].](img/Nicholson-and-Robertson-Itchen-Bridge-Map-1977.jpg){#fig-map fig-alt="Map from 1977 of the Itchen bridge site in relation to the road system." fig-align="center" width="581"}
 
@@ -40,9 +40,13 @@ The tender price for the bridge was £5,710,630, but in 1977 the total cost was 
 
 In 1977 it was estimated that the costs would be repaid by tolls in around 25 years (2002) [@nicholson1977]. By 1981 following a question in Parliament the date for repayment was revised back to 2025 [@tollbria]. A Freedom of Information request by Victoria Fraser in September 2023 confirmed that the debt had been repaid in 2016 with toll income of between £2 and £3.8 million for the financial years 2020 to 2023 [@foi2324a]. The response to this request also noted an expected £4.5 million maintenance costs for the 2024 repairs.
 
-The original purpose of the toll was in part as a congestion charge to discourage traffic as well as pay for the costs of the bridge and objections raised by motoring organisations almost led to the failure of the project [@robertson1976; @nicholson1977].
+The original purpose of the toll was in part as a congestion charge to discourage traffic as well as pay for the costs of the bridge that the City had hoped would be paid for by the UK government before the funds were diverted towards building the M27, and objections raised by motoring organisations almost led to the failure of the project [@robertson1976; @nicholson1977].
 
 Approval for the project was passed in July 1973 leaving only 8 months to prepare contracts and invite tenders before the expiry of the Southampton Corporation at the end of March 1974 [@robertson1976]. The expiration of the Southampton Corporation ended the existence of the City as a Highway Authority with the power to build bridges, hence it is unclear when or if a bridge would have been built had the deadline been missed.
+
+In 1977 the original toll structure for non-residents was 15p for cars at peak times, 25p for commercial vehicles weighing 1 to 3 tons and £1 for those over 3 tons. Vehicles over 3 tons with 3 or more axles were to be penalised with £10 toll [@nicholson1977].
+
+In [2024 the toll structure](https://www.southampton.gov.uk/travel-transport/apply-pay/itchen-bridge/) has changed, but equivalent tolls would be £1 for cars and small commercial vehicles and £1.40 for larger cars and commercial vehicles and £40 for HGVs, mobile homes and buses. This represents a six fold increase over the initial toll for cars, but less than the £1.17 equivalent purchasing power of 15p in 2024 [@ukinflaa].
 
 ### Design and construction {#sec-design-and-construction}
 
@@ -56,15 +60,15 @@ Steel piles were driven 30 metres into the ground for the piers (@fig-bridge-ele
 
 ### Further history and information {#sec-further-history-and-information}
 
-The Itchen Bridge replaced the Woolston Ferry some 144 years after a bridge was first proposed in 1833 and the history prior to the building of the bridge are well documented on the [Itchen Bridge Wikipedia](https://en.wikipedia.org/wiki/Itchen_Bridge) and [Woolston Floating Bridge Wikipedia](https://en.wikipedia.org/wiki/Woolston_Floating_Bridge) pages.
-
-Southampton Museums & Archive have a page about [the floating bridge](https://southamptonstories.co.uk/story/floating-bridge/) as part of their [Southampton Stories](https://southamptonstories.co.uk/) collection. On YouTube you can hear the song the Woolston Ferry by [Gutta Percher & Balladeers](https://www.youtube.com/watch?v=OemLggeF8PU) which references [the Lowry painting of the ferry](https://southamptoncityartgallery.com/object/sotag-1483/) that is part of the collection at Southampton City Art Gallery.
-
-Brian Adams wrote a book about the history and construction of the bridge (@fig-missing-link) which is available in both the Southampton City and University of Southampton Libraries [@adams1977].
+The Itchen Bridge replaced the Woolston Ferry some 144 years after a bridge was first proposed in 1833. It's not uncommon for [infrastructure projects to experience difficulties](https://worksinprogress.co/issue/building-back-faster/) and the trials and tribulations of the Itchen Bridge project are captured in detail by Brian Adams in his book about the history and construction of the bridge (@fig-missing-link) which is available in both the Southampton City and University of Southampton Libraries [@adams1977].
 
 ![The Missing Link by Brian Adams](img/missing-link-book.png){#fig-missing-link fig-alt="Image of The Missing Link book by Brian Adams" width="296"}
 
-For more technical details, the University of Southampton Library has two academic journal articles about the construction in its collection [@robertson1976; @nicholson1977] together with lots of other local history in the [Cope collection](https://library.soton.ac.uk/cope) and [Special Collections and Archives](https://www.southampton.ac.uk/archives/). As well as books and texts, these collections include postcards, maps and engravings.
+The [Itchen Bridge Wikipedia](https://en.wikipedia.org/wiki/Itchen_Bridge) and [Woolston Floating Bridge Wikipedia](https://en.wikipedia.org/wiki/Woolston_Floating_Bridge) pages also contain a wealth of information.
+
+Southampton Museums & Archive have a page about [the floating bridge](https://southamptonstories.co.uk/story/floating-bridge/) as part of their [Southampton Stories](https://southamptonstories.co.uk/) collection. On YouTube you can hear the song the Woolston Ferry by [Gutta Percher & Balladeers](https://www.youtube.com/watch?v=OemLggeF8PU) which references [the Lowry painting of the ferry](https://southamptoncityartgallery.com/object/sotag-1483/) that is part of the collection at Southampton City Art Gallery.
+
+For more technical and bureaucratic details, the University of Southampton Library has two academic journal articles about the construction in its collection [@robertson1976; @nicholson1977] together with lots of other local history in the [Cope collection](https://library.soton.ac.uk/cope) and [Special Collections and Archives](https://www.southampton.ac.uk/archives/). As well as books and texts, these collections include postcards, maps and eng
 
 The Daily Echo has published numerous articles about the Itchen Bridge in the last 50 years, including ['10 things you may not know'](https://www.dailyecho.co.uk/news/24061133.10-things-may-not-know-southamptons-itchen-bridge/) and ['46 years on'](https://www.dailyecho.co.uk/news/23559206.southampton-itchen-bridge-opened-46-years-ago-today/) and this little tidbit about [G E Prince & Sons from Chapel Road](https://www.dailyecho.co.uk/yoursay/letters/10135618.memories-of-itchen-bridge-construction/) and the origins of the Toll Booths.
 
@@ -80,7 +84,7 @@ The slides have been colour corrected, but are otherwise unedited. They are pres
 
 It is unclear exactly where @fig-slide-01 was taken, but the description on the slide says "Top hill at Woolston preparing for new road" and is dated 6th of August 1974, nearly 5 months after the first pile was driven on 22nd of March 1974. We assume this is heading towards where the Toll Booths would be either on or near the Portsmouth Road (A3025).
 
-![ Preparing the road for the Itchen Bridge in Woolston. Location unknown. Date: 1974-08-06](img/Photograph-Slide-ItchenBridge-1974-TopHillAtWoolstonPreparingForNewRoad19740806small.jpg){#fig-slide-01 fig-alt="Photo from 1974-08-06 preparing the road for the Itchen Bridge in Woolston" fig-align="center"}
+![Preparing the road for the Itchen Bridge in Woolston. Location unknown. Date: 1974-08-06](img/Photograph-Slide-ItchenBridge-1974-TopHillAtWoolstonPreparingForNewRoad19740806small.jpg){#fig-slide-01 fig-alt="Photo from 1974-08-06 preparing the road for the Itchen Bridge in Woolston" fig-align="center"}
 
 ```{=html}
 <script
@@ -170,7 +174,7 @@ There is just one photograph from 1976, taken in the spring on the 21st of April
 
 As described in @sec-design-and-construction, following the construction of the cantilevers from the piers, over a period of three weeks the beam launcher was used to construct and lift into place the section of bridge that is suspended between two piers and joining them.
 
-![Operation of the beam launcher to construct and install a suspend span on the Woolston side. Date: 1976-04-21 ](img/Photograph-Slide-Itchen-Bridge-1976-WoolstonSideNotOver19760421small.jpg){#fig-cantilever fig-alt="1976-04-21 Woolston side"}
+![Operation of the beam launcher to construct and install a suspend span on the Woolston side. Date: 1976-04-21](img/Photograph-Slide-Itchen-Bridge-1976-WoolstonSideNotOver19760421small.jpg){#fig-cantilever fig-alt="1976-04-21 Woolston side"}
 
 ### 1977 {#sec-1977}
 
@@ -206,10 +210,10 @@ Approach to the Toll Booths on Portsmouth Road in Woolston. Date: 1975-05-31
 The completed Itchen Bridge. Looking west from Woolston. Date: 1977-05-31
 :::
 
-![The completed Itchen Bridge from Victoria Road in Woolston looking towards the city. Date: 1977-05-31 ](img/Photograph-Slide-Itchen-Bridge-1977-TheCompletedItchenBridgeFromWoolston19770531small.jpg){#fig-completed-bridge fig-alt="Photograph from 1977-05-31 of the completed Itchen Bridge from Victoria Road in Woolston."}
+![The completed Itchen Bridge from Victoria Road in Woolston looking towards the city. Date: 1977-05-31](img/Photograph-Slide-Itchen-Bridge-1977-TheCompletedItchenBridgeFromWoolston19770531small.jpg){#fig-completed-bridge fig-alt="Photograph from 1977-05-31 of the completed Itchen Bridge from Victoria Road in Woolston."}
 
 Finally @fig-last-ferry was taken on the last day of operation of the Woolston Ferry on the 6th of June 1977. The picture is taken on the ferry as car disembark on western Chapel side of the river with the completed bridge viaduct rising above it.
 
 ![Disembarking the Woolston Ferry on the western Chapel side of the Itchen. The last day of operation for the Woolston Ferry. Date: 1977-06-11](img/Photograph-Slide-Itchen-Bridge-1977-SouthSide19770611small.jpg){#fig-last-ferry fig-alt="Photograph from 1977-06-11 Leaving the Woolston Ferry on the western side.  The last day of operation for the Woolston Ferry."}
 
-## References {#sec-references}
+## References {#sec-references .unnumbered}
