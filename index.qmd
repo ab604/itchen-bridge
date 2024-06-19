@@ -2,6 +2,18 @@
 bibliography: references.bib
 ---
 
+```{=html}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D21LFNS7LB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D21LFNS7LB');
+</script>
+```
+
 ## Introduction {#sec-introduction}
 
 ::: {.callout-important appearance="simple" icon="false"}
