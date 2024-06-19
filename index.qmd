@@ -72,7 +72,7 @@ Steel piles were driven 30 metres into the ground for the piers (@fig-bridge-ele
 
 ### Further history and information {#sec-further-history-and-information}
 
-The Itchen Bridge replaced the Woolston Ferry some 144 years after a bridge was first proposed in 1833. It's not uncommon for [infrastructure projects to experience difficulties](https://worksinprogress.co/issue/building-back-faster/) and the trials and tribulations of the Itchen Bridge project are captured in detail by Brian Adams in his book about the history and construction of the bridge (@fig-missing-link) which is available in both the Southampton City and University of Southampton Libraries [@adams1977].
+The Itchen Bridge replaced the Woolston Ferry some 144 years after a bridge was first proposed in 1833. It's not uncommon for [infrastructure projects to experience difficulties](https://worksinprogress.co/issue/building-back-faster/) and the trials and tribulations of the Itchen Bridge project are captured in detail by Brian Adams in his book about the history and construction of the bridge (@fig-missing-link). His book is available in both the Southampton City and University of Southampton Libraries [@adams1977].
 
 ![The Missing Link by Brian Adams](img/missing-link-book.png){#fig-missing-link fig-alt="Image of The Missing Link book by Brian Adams" width="296"}
 
