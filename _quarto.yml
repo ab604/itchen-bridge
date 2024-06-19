@@ -26,5 +26,6 @@ format:
     link-external-newwindow: true
     appendix-style: none
     number-sections: true
+    csl: nature.csl
     
 editor: visual
