@@ -2,18 +2,6 @@
 bibliography: references.bib
 ---
 
-```{=html}
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D21LFNS7LB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-D21LFNS7LB');
-</script>
-```
-
 ## Introduction {#sec-introduction}
 
 ::: {.callout-important appearance="simple" icon="false"}
@@ -78,7 +66,7 @@ The Itchen Bridge replaced the Woolston Ferry some 144 years after a bridge was 
 
 The [Itchen Bridge Wikipedia](https://en.wikipedia.org/wiki/Itchen_Bridge) and [Woolston Floating Bridge Wikipedia](https://en.wikipedia.org/wiki/Woolston_Floating_Bridge) pages also contain a wealth of information.
 
-Southampton Museums & Archive have a page about [the floating bridge](https://southamptonstories.co.uk/story/floating-bridge/) as part of their [Southampton Stories](https://southamptonstories.co.uk/) collection. On YouTube you can hear the song the Woolston Ferry by [Gutta Percher & Balladeers](https://www.youtube.com/watch?v=OemLggeF8PU) which references [the Lowry painting of the ferry](https://southamptoncityartgallery.com/object/sotag-1483/) that is part of the collection at Southampton City Art Gallery.
+Southampton Museums & Archive have a page about [the floating bridge](https://southamptonstories.co.uk/story/floating-bridge/) as part of their [Southampton Stories](https://southamptonstories.co.uk/) collection. On YouTube you can hear the song the Woolston Ferry by [Gutta Percha & Balladeers](https://www.youtube.com/watch?v=OemLggeF8PU) which references [the Lowry painting of the ferry](https://southamptoncityartgallery.com/object/sotag-1483/) that is part of the collection at Southampton City Art Gallery.
 
 For more technical and bureaucratic details, the University of Southampton Library has two academic journal articles about the construction in its collection [@robertson1976; @nicholson1977] together with lots of other local history in the [Cope collection](https://library.soton.ac.uk/cope) and [Special Collections and Archives](https://www.southampton.ac.uk/archives/). As well as books and texts, these collections include postcards, maps and eng
 

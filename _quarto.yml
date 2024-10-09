@@ -7,6 +7,7 @@ project:
 website:
   title: "The Itchen Bridge"
   page-navigation: false
+  google-analytics: "G-D21LFNS7LB"
 format:
   html:
     theme: 
