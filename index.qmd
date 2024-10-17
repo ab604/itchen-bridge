@@ -68,7 +68,7 @@ The [Itchen Bridge Wikipedia](https://en.wikipedia.org/wiki/Itchen_Bridge) and [
 
 Southampton Museums & Archive have a page about [the floating bridge](https://southamptonstories.co.uk/story/floating-bridge/) as part of their [Southampton Stories](https://southamptonstories.co.uk/) collection. On YouTube you can hear the song the Woolston Ferry by [Gutta Percha & Balladeers](https://www.youtube.com/watch?v=OemLggeF8PU) which references [the Lowry painting of the ferry](https://southamptoncityartgallery.com/object/sotag-1483/) that is part of the collection at Southampton City Art Gallery.
 
-For more technical and bureaucratic details, the University of Southampton Library has two academic journal articles about the construction in its collection [@robertson1976; @nicholson1977] together with lots of other local history in the [Cope collection](https://library.soton.ac.uk/cope) and [Special Collections and Archives](https://www.southampton.ac.uk/archives/). As well as books and texts, these collections include postcards, maps and eng
+For more technical and bureaucratic details, the University of Southampton Library has two academic journal articles about the construction in its collection [@robertson1976; @nicholson1977] together with lots of other local history in the [Cope collection](https://library.soton.ac.uk/cope) and [Special Collections and Archives](https://www.southampton.ac.uk/archives/). As well as books and texts, these collections include postcards, maps and engravings.
 
 The Daily Echo has published numerous articles about the Itchen Bridge in the last 50 years, including ['10 things you may not know'](https://www.dailyecho.co.uk/news/24061133.10-things-may-not-know-southamptons-itchen-bridge/) and ['46 years on'](https://www.dailyecho.co.uk/news/23559206.southampton-itchen-bridge-opened-46-years-ago-today/) and this little tidbit about [G E Prince & Sons from Chapel Road](https://www.dailyecho.co.uk/yoursay/letters/10135618.memories-of-itchen-bridge-construction/) and the origins of the Toll Booths.
 
@@ -86,7 +86,6 @@ It is unclear exactly where @fig-slide-01 was taken, but the description on the 
 
 ![Preparing the road for the Itchen Bridge in Woolston. Location unknown. Date: 1974-08-06](img/Photograph-Slide-ItchenBridge-1974-TopHillAtWoolstonPreparingForNewRoad19740806small.jpg){#fig-slide-01 fig-alt="Photo from 1974-08-06 preparing the road for the Itchen Bridge in Woolston" fig-align="center"}
 
-```{=html}
 <script
   defer
   src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js">
@@ -106,11 +105,10 @@ It is unclear exactly where @fig-slide-01 was taken, but the description on the 
    opacity: 0;
   }
 </style>
-```
+
 In @fig-comp-slide-01 we see the view from the Woolston Ferry on the 16th of September 1974 looking east towards the construction of the bridge on the Woolston side. We can see the yellow ferry in the distance on the far shore. In 2024 the landing site of the ferry is the location of Southampton Water Activities Centre which can be seen in @fig-drone.
 
 ::: {#fig-comp-slide-01 alt="Photograph of across the river Itchen looking towards Woolston"}
-```{=html}
 <img-comparison-slider class="custom-animated-handle"> 
 <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1974-EastFromTheWestSideOfWoolstonFerryAtNewBridge19740916small.jpg" > 
 <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-EastFromTheWestSideOfWoolstonFerryAtNewBridge19740916small.jpg"> 
@@ -118,14 +116,13 @@ In @fig-comp-slide-01 we see the view from the Woolston Ferry on the 16th of Sep
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider> 
-```
+
 Looking east towards Woolston from the Woolston Ferry on the Chapel side of the Itchen. Date: 1974-09-16
 :::
 
 @fig-comp-slide-02 was taken on the same day as @fig-comp-slide-01, and shows drilling for the 30 metre steel pilings for the new bridge. This location is now Oakbank Road and in 1974 Woolston Railway station could still be seen. In 2024 it is obscured by the bridge, and the old Boat Shop at the junction of Victoria Road is now The Boat Shop Cafe.
 
 ::: {#fig-comp-slide-02}
-```{=html}
 <img-comparison-slider class="custom-animated-handle">
   <img slot="first" 
   style="width: 75%"
@@ -137,7 +134,7 @@ Looking east towards Woolston from the Woolston Ferry on the Chapel side of the 
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider>
-```
+
 Looking east towards Woolston Railway station at piles being driven for the new bridge. Date: 1974-09-16
 :::
 
@@ -146,7 +143,6 @@ Looking east towards Woolston Railway station at piles being driven for the new 
 On the 16th of March 1975, almost a year after construction first began, @fig-slide-03 shows an image from Hazel Road looking west towards the Woolston Ferry landing site with a pink ice cream van on the wharf and bus nearby on what is now Wharf Road. In the river the pilings for the new bridge piers can be seen. In 2024 the view of the bridge is largely obscured by housing, but there is monument to the ferry at the entrance to the homes on Wharf Road.
 
 ::: {#fig-slide-03}
-```{=html}
 <img-comparison-slider class="custom-animated-handle">
   <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1975-WoolstonBridgeFromPortsmouthRoad19750316small.jpg" />
   <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-WoolstonBridgeFromPortsmouthRoad19750316small.jpg" />
@@ -154,7 +150,7 @@ On the 16th of March 1975, almost a year after construction first began, @fig-sl
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider>
-```
+
 Looking west towards the Woolston Ferry terminal in Woolston. Date: 1975-03-16
 :::
 
@@ -183,7 +179,6 @@ We have three photographs taken on the 31st of May 1977, the day that the pedest
 @fig-slide-04 shows the approach to the Toll Booths on the Woolston side.
 
 ::: {#fig-slide-04}
-```{=html}
 <img-comparison-slider class="custom-animated-handle">
   <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1977-TheApproachesToTollOnEasternSideOfBridge19770531small.jpg" />
   <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-TheApproachesToTollOnEasternSideOfBridge19770531small03.jpg"/>
@@ -191,14 +186,13 @@ We have three photographs taken on the 31st of May 1977, the day that the pedest
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider>
-```
+
 Approach to the Toll Booths on Portsmouth Road in Woolston. Date: 1975-05-31
 :::
 
 @fig-slide-05 shows the completed bridge looking west towards the city from the Woolston side from the road approaching the bridge near the Toll Booths, and @fig-completed-bridge shows the view in the same direction but from next to the new Oakbank Road car park.
 
 ::: {#fig-slide-05}
-```{=html}
 <img-comparison-slider class="custom-animated-handle">
   <img slot="first" width="100%" src="img/Photograph-Slide-Itchen-Bridge-1977-ItchenBridgeLookingFromWoolstonSide19770531small.jpg" />
   <img slot="second" width="100%" src="img/Photograph-Slide-Itchen-Bridge-2024-ItchenBridgeLookingFromWoolstonSide02.jpg" />
@@ -206,7 +200,7 @@ Approach to the Toll Booths on Portsmouth Road in Woolston. Date: 1975-05-31
     <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#fff" vector-effect="non-scaling-stroke"></path>
   </svg>
 </img-comparison-slider>
-```
+
 The completed Itchen Bridge. Looking west from Woolston. Date: 1977-05-31
 :::
 
